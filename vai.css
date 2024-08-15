@@ -90,7 +90,7 @@
   margin-right: 20px;
 }
 
-/* pic and text related style */
+/* pic and text related style lorem styles loremstyles loremstyles loremstyles lorem */
 
 .h1-text {
   /* margin-right: 190px; */
@@ -193,7 +193,7 @@
   justify-content: center;
   backdrop-filter: blur(7px);
 }
-/* change your habit related styles */
+/* change your habit related styles  lorem styles loremstyles loremstyles loremstyles lorem*/
 
 .habit{
   margin: auto;
@@ -242,7 +242,7 @@
   font-weight: 100;
 
 }
-/* div with inner section related styles */
+/* div with inner section related styles     lorem styles loremstyles loremstyles loremstyles lorem*/
 .mybg{
   background-color:#111111ea ;
   /* margin-top: -40px; */
@@ -309,11 +309,8 @@
   transform: scale(5); /* Zoom the image to 120% */
 }
 
-/* parallal picture related styles */
-.traning{
-  /* margin-top: 18px; */
+/* parallal picture related styles vddfsvdscvdsd  vcvvcvvcvcv  vvcdscv */
  
-}
 .row1 img{
  filter: brightness(70%);
 }
@@ -323,23 +320,16 @@
   gap: 0;
 }
 .excersice{
-  /* padding-top: 5px; */
   font-size: 3rem;
-  /* line-height: 1.3; */
   margin: 0px;
 }
-.paralell-pic{
-  
-}
+ 
 .row1{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin-top: 50px;
-  /* gap: 0; */
-  /* position: relative; */
 }
 .hatu-dhora{
-  /* gap: 0px; */
   position: relative;
  
 }
@@ -492,9 +482,7 @@ span{
   /* width: 500px; */
   /* font-weight: 100; */
 }
-.date2{
-
-}
+ 
 .container select.full-width {
   grid-column: span 2;
 }
