@@ -11,7 +11,8 @@
   font-family: "Miama", sans-serif;
   font-style: italic;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 500;
+  font-size: 4rem;
 }
 
 /*  shared style */
@@ -95,6 +96,7 @@
 .h1-text {
   /* margin-right: 190px; */
   padding-left: 168px;
+  
 }
 
 .main-text {
@@ -394,12 +396,15 @@
   font-weight: 700;
   font-size: .8rem;
 }
-/* video extra related styles f;j;ffjklff f;j;ffjklfff;j;ffjklfff;j;ffjklfff;j;ffjklff */
+/* video extra related styles */
 .video-text{
   padding-top: 60px;
 }
-.video{
+.video-extra{
   margin: 45px 190px 0px 190px;
+}
+.video-extra>iframe{
+  border-radius: 10px;
 }
 
 /* BMI calculator related styles BMI calculator related style BMI calculator related style */
